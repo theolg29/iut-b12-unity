@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Gallery v2.sln"
+    "dotnet.defaultSolution": "iut-b12-unity.sln"
 }
